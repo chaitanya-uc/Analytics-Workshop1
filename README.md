@@ -33,20 +33,20 @@ creating a github account
 
 
 ## Docker image 
-    1. sudo docker pull mysql:8.0
-    2. sudo docker pull php:7.4-apache
+    1. sudo docker pull postgres
+    2. sudo docker pull python:3.7-alpine
     3. sudo docker pull hello-world
     4. sudo docker pull alpine
 ## Docker
 
 - By the end of this workshop you will understand following things
-- You will be Introduced to the concept of containerisation and why its required.
+- You will be introduced to the concept of Containerisation and why its required.
 - You will learn how to Build and run your own Containers.
 - You will learn how to Run Multiple Services with Docker Compose
 - You will learn how to Expose Ports, Volume Mounts, Utilizing Networks, Limiting Resources (the 4 features we use regularly.)
 ## GIT
-- You will be Introduced to GIT
-- You will learn git commands (push, pull make Pull request etc)
+- You will be Introduced to Git
+- You will learn git commands (push, pull make a pull request etc)
 ## Schedule
 | Time            | Topics
 |-----------------|-------
